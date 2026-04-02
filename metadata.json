@@ -1,0 +1,7 @@
+{
+  "name": "TerraTrust",
+  "description": "A transparent land management platform for viewing boundaries, tracking transfers, and reporting disputes.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
